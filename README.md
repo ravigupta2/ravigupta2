@@ -29,8 +29,8 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ravigupta2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/raviii98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/ravigupta2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/r.a.v.ii2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="linkedin.com/in/ravikumar-gupta-21192310b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/r.a.v.ii2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 
 </p>
 
